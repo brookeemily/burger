@@ -1,0 +1,55 @@
+body {
+    background-color: #FEF06F;
+}
+
+.container {
+    margin-top: 5%;
+}
+
+#orderUp {
+    background-color: rgba(255, 164, 172, 0.521);
+    /* color: white; */
+    margin: auto;
+    min-height: 275px;
+    margin-right: 2%;
+    padding: 50px;
+}
+
+#eatenBurgers {
+    background-color: rgba(255, 164, 172, 0.521);
+    margin: auto;
+    margin-left: 2%;
+    min-height: 275px;
+    padding: 50px;
+}
+
+#title {
+    font-family: 'Josefin Slab', serif;
+}
+
+.btn-sm {
+padding-top: 0;
+padding-bottom: 0;
+}
+
+.newOrder {
+background-color: rgba(255, 164, 172, 0.521);
+margin-top: 2%;
+margin-bottom: 10%;
+/* height: 200px; */
+padding: 50px;
+
+}
+
+#newOrder {
+    margin: auto;
+    margin-left: 30%;
+}
+
+.submitBtn {
+    width: 50%;
+}
+
+#addNewBurgerName {
+    width: 50%;
+}
